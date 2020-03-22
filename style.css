@@ -107,19 +107,22 @@ a:link {
 
 .contents {
     border-bottom: #5d648e dashed 2px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 .contents1 {
     border-top: #5d648e dashed 2px;
     border-bottom: #5d648e dashed 2px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 div a:link {
-    color: #575a06
+    color: #575a06;
 }
 
+div a:visited { 
+    color: #575a06;
+}
 p a:link {
     font-size: 16;
     color: #333;
