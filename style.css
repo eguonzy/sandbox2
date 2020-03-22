@@ -1,0 +1,159 @@
+@font-face {
+    font-family: "Blackbird";
+    src: url("Blackbird.otf");
+}
+
+@font-face {
+    font-family: "sansha demo";
+    src: url("sansha demo.otf");
+}
+
+
+/* @font-face {
+        font-family: "AlexBrush-Regular";
+        src: url(AlexBrush-Regular.ttf);
+    }*/
+
+html {
+    font-family: "Blackbird";
+    margin: 10px 10px 10px 10px;
+    font-size: 14;
+}
+
+header {
+    padding: 8px;
+    color: white;
+    background-color: #5d648e;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+span a:link {
+    color: honeydew;
+}
+
+h1,
+.indian,
+form,
+.recent {
+    text-align: center;
+}
+
+.span {
+    line-height: 20px;
+    color: rgb(59, 57, 57);
+    border-bottom: #5d648e dashed 2px;
+}
+
+.span span {
+    font-weight: bold;
+}
+
+ul li {
+    list-style-image: url(arrow.png);
+}
+
+.recent {
+    padding: 8px;
+    background-color: #5d648e;
+    color: white;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+ul .nostyle {
+    /*border-bottom: dotted olive 1px;*/
+    list-style: none;
+}
+
+li {
+    color: rgb(56, 54, 54);
+}
+
+#spanish {
+    float: right;
+    background-color: #5d648e;
+    color: white;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.select {
+    padding: 8px;
+    color: white;
+    text-align: center;
+    background-color: #5d648e;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.select1 {
+    font-weight: lighter;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.contact {
+    padding: 8px;
+    text-align: center;
+    border-top: groove 1px silver;
+    border-bottom: groove 1px silver;
+    background-color: rgb(228, 212, 212);
+}
+
+.contents {
+    border-bottom: #5d648e dashed 2px;
+    padding-bottom: 20px;
+}
+
+.contents1 {
+    border-top: #5d648e dashed 2px;
+    border-bottom: #5d648e dashed 2px;
+    padding-bottom: 20px;
+}
+
+div a:link {
+    color: #575a06
+}
+
+p a:link {
+    font-size: 16;
+    color: #333;
+    font-weight: bold;
+}
+
+div {
+    padding: 5px;
+}
+
+.letters {
+    font-weight: bolder;
+}
+
+.not {
+    font-family: "Blackbird";
+    color: brown;
+    font-weight: bolder;
+    font-size: 15;
+    text-emphasis: filled sesame;
+}
+
+footer {
+    font-family: "sansha demo";
+    text-align: center;
+    color: aquamarine;
+    margin: 10px;
+    padding: 5px;
+    float: right 100px;
+    background: #5d648e;
+    border: groove #5d648e5e 4px;
+    border-radius: 5px;
+}
+
+body {
+    font-family: "Blackbird";
+}
