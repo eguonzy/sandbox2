@@ -46,6 +46,7 @@ form,
 }
 
 .span {
+    border-top: #5d648e dashed 2px;
     line-height: 20px;
     color: rgb(59, 57, 57);
     border-bottom: #5d648e dashed 2px;
