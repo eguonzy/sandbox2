@@ -50,7 +50,8 @@ form,
     line-height: 20px;
     color: rgb(59, 57, 57);
     border-bottom: #5d648e dashed 2px;
-    padding: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
 }
 
 .span span {
