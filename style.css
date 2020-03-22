@@ -50,8 +50,10 @@ form,
     line-height: 20px;
     color: rgb(59, 57, 57);
     border-bottom: #5d648e dashed 2px;
-    padding-top: 3px;
-    padding-bottom: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .span span {
@@ -67,7 +69,7 @@ ul li {
     background-color: #5d648e;
     color: white;
     border: groove #5d648e5e 4px;
-    margin-bottom: 1px;
+    margin-bottom: 2px;
 }
 
 html {
@@ -97,7 +99,7 @@ li {
     color: white;
     text-align: center;
     background-color: #5d648e;
-    margin-top: 1px;
+    margin-top: 2px;
     margin-bottom: 2px;
     border: groove #5d648e5e 4px;
 }
