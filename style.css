@@ -20,12 +20,18 @@ html {
     font-size: 14;
 }
 
+body {
+    font-family: "Blackbird";
+}
+
+
 header {
     padding: 8px;
     color: white;
     background-color: #5d648e;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+    border: groove #5d648e 4px;
 }
 
 span a:link {
@@ -57,6 +63,7 @@ ul li {
     padding: 8px;
     background-color: #5d648e;
     color: white;
+    border: groove #5d648e5e 4px;
 }
 
 html {
@@ -78,6 +85,7 @@ li {
     color: white;
     border-radius: 5px;
     padding: 2px;
+    border: groove #5d648e5e 4px;
 }
 
 .select {
@@ -87,6 +95,7 @@ li {
     background-color: #5d648e;
     margin-top: 2px;
     margin-bottom: 2px;
+    border: groove #5de648e5e 4px;
 }
 
 .select1 {
