@@ -25,7 +25,7 @@ body {
 }
 
 
-header {
+header {position: sticky;
     padding: 8px;
     color: white;
     background-color: #5d648e;
