@@ -25,7 +25,9 @@ body {
 }
 
 
-header {position: sticky;
+header {position: -webKit-sticky;
+        position: sticky;
+        top: 10px
     padding: 8px;
     color: white;
     background-color: #5d648e;
